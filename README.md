@@ -1,5 +1,5 @@
 # Pycasso
-Face Generator witth Diffusion Models
+Face Generator with Diffusion Models
 
 The aim of the project is generate faces, starting by a label of 5 bits that represent the feature of a face ( for example man/woman faces, or faces with, or without glasses)...
 The project is based on Diffusion Models, with the help of a T5 Text Encoder, to help the process of generation.
